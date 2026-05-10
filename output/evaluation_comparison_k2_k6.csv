@@ -1,0 +1,8 @@
+Metric,K=6,K=2
+Inertia,1833594.420,2527535.190
+Silhouette Score,0.154,0.446
+Davies-Bouldin Score,1.968,0.927
+Calinski-Harabasz Score,3591.286,10204.447
+Adjusted Rand Index,0.420,0.991
+Normalized Mutual Information,0.560,0.977
+Confusion Matrix Accuracy,0.540,0.998
